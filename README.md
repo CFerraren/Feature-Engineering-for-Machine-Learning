@@ -1,3 +1,9 @@
+![png](image/feature_engineering.png)
+
+# Feature Engineering
+---
+
+
 ## Models and Features
 
 > the process involves two mathematical entities that are the bread and butter of machine learning.
@@ -10,8 +16,12 @@
 
 
 
-2-1_Binarization
-2-2_Quantization_Binning
-2-3_Fixed-Width Bins (Quantizing)
-2-4_Quantile Binning
-2-5_Binning Counts by Quantiles
+1. [Binarization](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-1_Binarization.ipynb)
+
+2. [Quantization_Binning](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-2_Quantization_Binning.ipynb)
+
+3. [Fixed-Width Bins (Quantizing)](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-3_Fixed-Width%20Bins%20(Quantizing).ipynb)
+
+4. [Quantile Binning](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-4_Quantile%20Binning.ipynb)
+
+5. [Binning Counts by Quantiles](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-5_Binning%20Counts%20by%20Quantiles.ipynb)
