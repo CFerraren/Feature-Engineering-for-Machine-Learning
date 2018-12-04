@@ -27,3 +27,5 @@
 5. [Binning Counts by Quantiles](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-5_Binning%20Counts%20by%20Quantiles.ipynb)
 
 6. [Visualizing the Review Counts Distribution](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-6_Visualizing%20the%20Review%20Counts%20Distribution.ipynb)
+
+7. [News Article Popularity](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-7_News%20Article%20Popularity.ipynb)
