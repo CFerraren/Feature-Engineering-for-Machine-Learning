@@ -25,3 +25,5 @@
 4. [Quantile Binning](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-4_Quantile%20Binning.ipynb)
 
 5. [Binning Counts by Quantiles](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-5_Binning%20Counts%20by%20Quantiles.ipynb)
+
+6. [Visualizing the Review Counts Distribution](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-6_Visualizing%20the%20Review%20Counts%20Distribution.ipynb)
