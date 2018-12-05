@@ -40,3 +40,5 @@
 12. [Box-Cox Transformation](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-12_Box-Cox%20Transformation.ipynb)
 
 13. [Feature Scaling](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-13_Feature%20Scaling.ipynb)
+
+14. [Interactions Features in Prediction](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-14_Interactions%20Features%20in%20Prediction.ipynb)
