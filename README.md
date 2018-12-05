@@ -1,6 +1,8 @@
 ![png](image/feature_engineering.png)
 
 # Feature Engineering
+
+    the process of formulating the most appropriate features given the data, the model and the task.
 ---
 
 
@@ -8,11 +10,13 @@
 
 > the process involves two mathematical entities that are the bread and butter of machine learning.
 
+
+
 **Mathematical/Statistical Modeling** - describes the relationships between different aspects of data.
 
 **Feature** - is a numeric representation of raw data.
 
-**Feature Engineering** - the process of formulating the most appropriate features given the data, the model and the task.
+---
 
 [02_Simple Numbers](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/tree/master/02_Simple%20Numbers)
 
