@@ -14,7 +14,7 @@
 
 **Feature Engineering** - the process of formulating the most appropriate features given the data, the model and the task.
 
-02_[Simple Numbers](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/tree/master/02_Simple%20Numbers)
+**[02_Simple Numbers](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/tree/master/02_Simple%20Numbers) Discusses number of common numeric feature engineeringtechniques, such as quantization, scaling(normalization), log transforms(a type of power transform), and interaction features, and gave a brief summary of feature selection techniques, necessary for handling large quantities of intreaction features.**
 
 1. [Binarization](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/02_Simple%20Numbers/2-1_Binarization.ipynb)
 
