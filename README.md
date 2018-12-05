@@ -37,3 +37,6 @@
 10. [Visualized using Scatter Plot the News Article Popularity with Applied Log Transform](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-10_Visualized%20using%20Scatter%20Plot%20the%20News%20Article%20Popularity%20with%20Applied%20Log%20Transform.ipynb)
 
 11. [Visualizing the Correlation between Input and Output In Yelp Business Review](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-11_Visualizing%20the%20Correlation%20between%20Input%20and%20Output%20In%20Yelp%20Business%20Review.ipynb)
+12. [Box-Cox Transformation](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-12_Box-Cox%20Transformation.ipynb)
+
+13. [Feature Scaling](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-13_Feature%20Scaling.ipynb)
