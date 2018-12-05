@@ -29,3 +29,11 @@
 6. [Visualizing the Review Counts Distribution](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-6_Visualizing%20the%20Review%20Counts%20Distribution.ipynb)
 
 7. [News Article Popularity](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-7_News%20Article%20Popularity.ipynb)
+
+8. [Yelp Review with Log Transform](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-8_Yelp%20Review%20with%20Log%20Transform.ipynb)
+
+9. [Predict News Article Popularity with Log Transform](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-9_Predict%20News%20Article%20Popularity%20with%20Log%20Transform.ipynb)
+
+10. [Visualized using Scatter Plot the News Article Popularity with Applied Log Transform](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-10_Visualized%20using%20Scatter%20Plot%20the%20News%20Article%20Popularity%20with%20Applied%20Log%20Transform.ipynb)
+
+11. [Visualizing the Correlation between Input and Output In Yelp Business Review](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/2-11_Visualizing%20the%20Correlation%20between%20Input%20and%20Output%20In%20Yelp%20Business%20Review.ipynb)
