@@ -8,7 +8,7 @@
 
 ## Models and Features
 
-> the process involves two mathematical entities that are the bread and butter of machine learning.
+    the process involves two mathematical entities that are the bread and butter of machine learning.
 
 
 
