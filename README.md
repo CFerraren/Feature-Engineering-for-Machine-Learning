@@ -50,3 +50,13 @@
        13. [Feature Scaling](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/02_Simple%20Numbers/2-13_Feature%20Scaling.ipynb)
 
        14. [Interactions Features in Prediction](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/02_Simple%20Numbers/2-14_Interactions%20Features%20in%20Prediction.ipynb)
+       
+---
+
+[03_Text Data](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/tree/master/03_Text%20Data)
+
+   - Simple Text Featurization Technique. These techniques turn a piece of natural language text from a full rich semantic structure to a simple flat vector.
+   
+       1. [Computing N-Grams](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/03_Text%20Data/3-1_Computing%20N-Grams.ipynb)
+   
+       2. [PoS Tagging and Chunking](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/03_Text%20Data/3-2_PoS%20Tagging%20and%20Chunking.ipynb)
