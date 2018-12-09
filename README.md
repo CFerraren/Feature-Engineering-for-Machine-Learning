@@ -60,3 +60,15 @@
        1. [Computing N-Grams](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/03_Text%20Data/3-1_Computing%20N-Grams.ipynb)
    
        2. [PoS Tagging and Chunking](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/03_Text%20Data/3-2_PoS%20Tagging%20and%20Chunking.ipynb)
+       
+[04_Effects of Feature Scaling](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/tree/master/04_Effects%20of%20Feature%20Scaling)
+
+   - We used tf-idf as an entry point into a detailed analysis of how feature transformations can affect the model (or not)
+   
+   - We used tf-idf and l2 normalization feature scaling.
+   
+       1. [Simple Text Classification](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/04_Effects%20of%20Feature%20Scaling/4-0_Simple%20Text%20Classification.ipynb)
+       
+       2. [Creating Balanced Classification Dataset](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/04_Effects%20of%20Feature%20Scaling/4-1_Creating%20Balanced%20Classification%20Dataset.ipynb)
+       
+       3. [Training Logistic Regression Classifier with Default Parameters](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/04_Effects%20of%20Feature%20Scaling/4-2_Training%20Logistic%20Regression%20Classifier%20with%20Default%20Parameters.ipynb)
