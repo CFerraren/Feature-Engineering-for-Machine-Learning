@@ -74,3 +74,9 @@
        2. [Creating Balanced Classification Dataset](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/04_Effects%20of%20Feature%20Scaling/4-1_Creating%20Balanced%20Classification%20Dataset.ipynb)
        
        3. [Training Logistic Regression Classifier with Default Parameters](https://github.com/CFerraren/Feature-Engineering-for-Machine-Learning/blob/master/04_Effects%20of%20Feature%20Scaling/4-2_Training%20Logistic%20Regression%20Classifier%20with%20Default%20Parameters.ipynb)
+       
+---
+
+[05_Categorical Variables]
+
+   - Used to represent categories or labels.
